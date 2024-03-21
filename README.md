@@ -37,6 +37,12 @@ Guiding questions for the project:
 * Other time units of Start Time: **MONTH**, **DAY**, **DAYOFWEEK**, **HOUR**
 
 ### 3. Data Analysis
+#### Summary
+* The total number of rides recorded in 2023: 11790789 with null values.
+* The total number of rides recorded in 2023: 11719684 without null values.
+* The total number of minutes recorded in 2023: 197202233.75063345 minutes.
+* The average duration of bixi rides in 2023: 16.82658284563248 minutes.
+
 #### What are the most popular routes in 2023?
 Top 10 popular routes are made up of 5 roundtrips and 5 other routes. The most popular route is the roundtrip in Métro Jean-Drapeau station.
 
