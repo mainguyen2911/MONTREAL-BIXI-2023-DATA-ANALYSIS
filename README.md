@@ -5,6 +5,7 @@ This repository includes:
 * **README.md**
 * **LICENSE**
 * **MONTREAL-BIXI-2023-DATA-ANALYSIS.ipynb**
+* png files
 
 Guiding questions for the project:
 * What are the most popular routes in 2023?
